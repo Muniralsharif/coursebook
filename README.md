@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Founders and Coders Curriculum
 
 Welcome to our curriculum. This material forms the basis of our tuition-free, peer-led web development programme.

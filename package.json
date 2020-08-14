@@ -1,0 +1,29 @@
+{
+  "name": "coursebook",
+  "version": "1.0.0",
+  "description": "Welcome to our curriculum. This material forms the basis of our tuition-free, peer-led web development programme.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve --quiet",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundersandcoders/coursebook.git"
+  },
+  "keywords": [],
+  "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundersandcoders/coursebook/issues"
+  },
+  "homepage": "https://github.com/foundersandcoders/coursebook#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "@sindresorhus/slugify": "^1.1.0",
+    "markdown-it": "^11.0.0",
+    "markdown-it-anchor": "^5.3.0",
+    "markdown-it-task-lists": "^2.1.1"
+  }
+}

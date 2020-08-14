@@ -1,97 +1,102 @@
+---
+tags: nav
+permalink: false
+---
+
 ## Student Handbook
 
-- [Code of Conduct](handbook/code-of-conduct.md)
-- [Course Rules](handbook/course-rules.md)
-- [Pair Programming](handbook/pair-programming.md)
-- [Spikes](handbook/spikes.md)
-- [Projects](handbook/projects.md)
-- [Code Review](handbook/code-review.md)
-- [Retrospectives](handbook/retrospectives.md)
+- [Code of Conduct](/handbook/code-of-conduct)
+- [Course Rules](/handbook/course-rules)
+- [Pair Programming](/handbook/pair-programming)
+- [Spikes](/handbook/spikes)
+- [Projects](/handbook/projects)
+- [Code Review](/handbook/code-review)
+- [Retrospectives](/handbook/retrospectives)
 
 ## Curriculum
 
-- Teamwork & Toolkit
-  - [Learning outcomes](curriculum/teamwork-and-toolkit/learning-outcomes.md)
-  - [Schedule](curriculum/teamwork-and-toolkit/schedule.md)
-  - [Spikes](curriculum/teamwork-and-toolkit/spikes.md)
-  - [Project](curriculum/teamwork-and-toolkit/project.md)
-  - [Resources](curriculum/teamwork-and-toolkit/resources.md)
-- HTTP
-  - [Learning Outcomes](curriculum/http/learning-outcomes.md)
-  - [Schedule](curriculum/http/schedule.md)
-  - [Spikes](curriculum/http/spikes.md)
-  - [Project](curriculum/http/project.md)
-  - [Resources](curriculum/http/resources.md)
-- Testing
-  - [Learning Outcomes](curriculum/testing/learning-outcomes.md)
-  - [Schedule](curriculum/testing/schedule.md)
-  - [Spikes](curriculum/testing/spikes.md)
-  - [Project](curriculum/testing/project.md)
-  - [Resources](curriculum/testing/resources.md)
-- Node
-  - [Learning Outcomes](curriculum/node/learning-outcomes.md)
-  - [Schedule](curriculum/node/schedule.md)
-  - [Spikes](curriculum/node/spikes.md)
-  - [Project](curriculum/node/project.md)
-  - [Resources](curriculum/node/resources.md)
-- Databases
-  - [Learning Outcomes](curriculum/databases/learning-outcomes.md)
-  - [Schedule](curriculum/databases/schedule.md)
-  - [Spikes](curriculum/databases/spikes.md)
-  - [Project](curriculum/databases/project.md)
-  - [Resources](curriculum/databases/resources.md)
-- Authentication
-  - [Learning Outcomes](curriculum/authentication/learning-outcomes.md)
-  - [Schedule](curriculum/authentication/schedule.md)
-  - [Spikes](curriculum/authentication/spikes.md)
-  - [Project](curriculum/authentication/project.md)
-  - [Resources](curriculum/authentication/resources.md)
-- REST APIs
-  - [Learning Outcomes](curriculum/rest-apis/learning-outcomes.md)
-  - [Schedule](curriculum/rest-apis/schedule.md)
-  - [Spikes](curriculum/rest-apis/spikes.md)
-  - [Project](curriculum/rest-apis/project.md)
-  - [Resources](curriculum/rest-apis/resources.md)
-- Fullstack App
-  - [Learning Outcomes](curriculum/fullstack-app/learning-outcomes.md)
-  - [Schedule](curriculum/fullstack-app/schedule.md)
-  - [Spikes](curriculum/fullstack-app/spikes.md)
-  - [Project](curriculum/fullstack-app/project.md)
-  - [Resources](curriculum/fullstack-app/resources.md)
-- React
-  - [Learning Outcomes](curriculum/react/learning-outcomes.md)
-  - [Schedule](curriculum/react/schedule.md)
-  - [Project](curriculum/react/project.md)
-  - [Resources](curriculum/react/resources.md)
+- ### Teamwork & Toolkit
+  - [Learning outcomes](/curriculum/teamwork-and-toolkit/learning-outcomes)
+  - [Schedule](/curriculum/teamwork-and-toolkit/schedule)
+  - [Spikes](/curriculum/teamwork-and-toolkit/spikes)
+  - [Project](/curriculum/teamwork-and-toolkit/project)
+  - [Resources](/curriculum/teamwork-and-toolkit/resources)
+- ### HTTP
+  - [Learning Outcomes](/curriculum/http/learning-outcomes)
+  - [Schedule](/curriculum/http/schedule)
+  - [Spikes](/curriculum/http/spikes)
+  - [Project](/curriculum/http/project)
+  - [Resources](/curriculum/http/resources)
+- ### Testing
+  - [Learning Outcomes](/curriculum/testing/learning-outcomes)
+  - [Schedule](/curriculum/testing/schedule)
+  - [Spikes](/curriculum/testing/spikes)
+  - [Project](/curriculum/testing/project)
+  - [Resources](/curriculum/testing/resources)
+- ### Node
+  - [Learning Outcomes](/curriculum/node/learning-outcomes)
+  - [Schedule](/curriculum/node/schedule)
+  - [Spikes](/curriculum/node/spikes)
+  - [Project](/curriculum/node/project)
+  - [Resources](/curriculum/node/resources)
+- ### Databases
+  - [Learning Outcomes](/curriculum/databases/learning-outcomes)
+  - [Schedule](/curriculum/databases/schedule)
+  - [Spikes](/curriculum/databases/spikes)
+  - [Project](/curriculum/databases/project)
+  - [Resources](/curriculum/databases/resources)
+- ### Authentication
+  - [Learning Outcomes](/curriculum/authentication/learning-outcomes)
+  - [Schedule](/curriculum/authentication/schedule)
+  - [Spikes](/curriculum/authentication/spikes)
+  - [Project](/curriculum/authentication/project)
+  - [Resources](/curriculum/authentication/resources)
+- ### REST APIs
+  - [Learning Outcomes](/curriculum/rest-apis/learning-outcomes)
+  - [Schedule](/curriculum/rest-apis/schedule)
+  - [Spikes](/curriculum/rest-apis/spikes)
+  - [Project](/curriculum/rest-apis/project)
+  - [Resources](/curriculum/rest-apis/resources)
+- ### Fullstack App
+  - [Learning Outcomes](/curriculum/fullstack-app/learning-outcomes)
+  - [Schedule](/curriculum/fullstack-app/schedule)
+  - [Spikes](/curriculum/fullstack-app/spikes)
+  - [Project](/curriculum/fullstack-app/project)
+  - [Resources](/curriculum/fullstack-app/resources)
+- ### React
+  - [Learning Outcomes](/curriculum/react/learning-outcomes)
+  - [Schedule](/curriculum/react/schedule)
+  - [Project](/curriculum/react/project)
+  - [Resources](/curriculum/react/resources)
 
 ## Projects
 
-- Student Project
-  - Design Week
-    - [Learning Outcomes](projects/design-week/learning-outcomes.md)
-    - [Schedule](projects/design-week/schedule.md)
-    - [Project](projects/design-week/project.md)
-  - Sprint One
-    - [Schedule](projects/w12-schedule.md)
-    - [Mentor Roles](projects/mentor-roles.md)
-    - [Student Roles](projects/student-roles.md)
-  - Student Project Sprint Two
-    - [Schedule](projects/w13-schedule.md)
-- Tech For Better Project
-  - Design Week
-    - [Schedule](projects/w14-schedule.md)
-  - Sprint One
-    - [Schedule](projects/w15-schedule.md)
-  - Sprint Two
-    - [Schedule](projects/w16-schedule.md)
-    - [PO Handover Guidance](projects/po-handover.md)
-    - [TFB Presentation Guidance](projects/tfb-presentation.md)
+- ### Student Project
+  - #### Design Week
+    - [Learning Outcomes](/projects/design-week/learning-outcomes)
+    - [Schedule](/projects/design-week/schedule)
+    - [Project](/projects/design-week/project)
+  - #### Sprint One
+    - [Schedule](/projects/w12-schedule)
+    - [Mentor Roles](/projects/mentor-roles)
+    - [Student Roles](/projects/student-roles)
+  - #### Student Project Sprint Two
+    - [Schedule](/projects/w13-schedule)
+- ### Tech For Better Project
+  - #### Design Week
+    - [Schedule](/projects/w14-schedule)
+  - #### Sprint One
+    - [Schedule](/projects/w15-schedule)
+  - #### Sprint Two
+    - [Schedule](/projects/w16-schedule)
+    - [PO Handover Guidance](/projects/po-handover)
+    - [TFB Presentation Guidance](/projects/tfb-presentation)
 
 ### One Day Projects
 
-- [Running a one day project](projects/one-day-projects.md)
+- [Running a one day project](/projects/one-day-projects)
 
 ## Precourse
 
-- [Precourse](precourse/precourse.md)
-- [Installation List](precourse/installation-list.md)
+- [Precourse](/precourse/precourse)
+- [Installation List](/precourse/installation-list)
